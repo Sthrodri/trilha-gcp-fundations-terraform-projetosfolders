@@ -45,6 +45,5 @@ O diagrama PNG foi gerado a partir do código Mermaid para facilitar a visualiza
 
 ## Autor
 
--   **Sthefany Silva**
 -   **LinkedIn:** [https://www.linkedin.com/in/sthefany-rodrigues-silva-11464129a/](https://www.linkedin.com/in/sthefany-rodrigues-silva-11464129a/)
 -   **Perfil DIO:** [https://web.dio.me/users/sthefanysilvaakn](https://web.dio.me/users/sthefanysilvaakn)
